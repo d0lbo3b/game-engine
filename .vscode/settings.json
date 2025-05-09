@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "khrplatform.h": "c",
+        "glad.h": "c",
+        "stdio.h": "c",
+        "inttypes.h": "c"
+    }
+}
